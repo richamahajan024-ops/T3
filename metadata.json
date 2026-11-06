@@ -1,0 +1,6 @@
+{
+  "name": "RailConnect – Complete Train Search",
+  "description": "Indian railway direct train search and timetable discovery platform between stations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
